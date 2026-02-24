@@ -1,4 +1,4 @@
-# Eyebrow-Based Attention Detection
+# Landmark-Based Attention Detection
 
 This project uses MediaPipe FaceMesh to extract eyebrow geometry and classify:
 

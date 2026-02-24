@@ -1,9 +1,10 @@
 # Landmark-Based Attention Detection
 
-This project uses MediaPipe FaceMesh to extract eyebrow geometry and classify:
+This project uses MediaPipe FaceMesh to extract eyebrow geometry and head position and classify:
 
 1. Attentive
 2. Attentive with No Understanding
+3. Disattentive
 
 Pipeline:
 - Landmark extraction
